@@ -4,5 +4,6 @@ Late Adopters is an organization of handsome developers who want to explore the 
 
 ## Roles
 
-CTO (Chief Toledo Officer). Carlos
-CFO (Chief Fografor Officer). Abel
+**CTO** (Chief Toledo Officer). Carlos
+
+**CFO** (Chief Fografor Officer). Abel
